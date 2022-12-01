@@ -28,8 +28,7 @@
         <label for="female">Female</label>
         <input type="radio" name="gender" id="female" value="Female"> <br>
 
-    other
-        <label for="other"></label>
+        <label for="other">Other</label>
         <input type="radio" name="gender" id="other" value="Other"> <br>
 
         <label for="age-group">Select your age group</label>
