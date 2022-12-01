@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headings And Paragraphs</title>
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <!--h1 is largest heading-->
+    <!--<h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>-->
+   <!--<p>This is paragraph 1</p> <br> This is next line-->
+   <!--<p>This is second paragraph</p>-->
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla nesciunt optio a, debitis eveniet minima eius, praesentium non eos quo laudantium tempore quam deleniti ab. Fuga amet perferendis explicabo ducimus, molestias sunt molestiae optio ea reprehenderit dolor tempora a facilis consequatur modi aut perspiciatis reiciendis provident quam, fugiat eos nemo.</p>
+
+</body>
+</html>
