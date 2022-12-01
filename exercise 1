@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 1</title>
+</head>
+<body>
+    <h1>
+        My Blog 
+    </h1>
+    <br>
+    <h2>My Blog Post 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos deleniti porro repellendus! Corrupti et aut corporis voluptatem maxime distinctio numquam vel, quae culpa excepturi, placeat error voluptatibus iusto esse iste odio labore. Error optio voluptatibus commodi quae facere ea excepturi et corporis pariatur id. Laborum quos a quibusdam voluptas eos delectus omnis nesciunt animi illo voluptatum possimus excepturi dolore neque consequuntur ut consequatur, maxime harum quia praesentium voluptatem dicta labore. Architecto deserunt tenetur iure sit quisquam incidunt ipsa, provident, obcaecati odit commodi nam perferendis rerum cumque doloribus laboriosam assumenda? Laboriosam labore at placeat numquam rerum possimus fugit totam dolorum debitis quod tenetur veritatis enim, officia consectetur distinctio iste provident repudiandae tempore sequi? Reiciendis sint ab natus, ducimus libero at et id eveniet? Maiores debitis a dicta unde vitae. Natus facilis officiis magnam corporis ratione. Accusamus, eius quam, molestiae corporis ipsum et numquam explicabo commodi consequuntur culpa recusandae ipsa dolorum voluptates?</p>
+    <h2>My Blog Post 2</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure facilis quam facere saepe, nesciunt quibusdam natus aliquid molestiae, exercitationem at quisquam excepturi, consequatur pariatur error earum a ducimus beatae ipsa. Nam, soluta rem accusamus ipsam quos qui odio aut quod? Saepe nobis quibusdam non laudantium, iure molestiae est explicabo vero blanditiis corrupti! Laboriosam nobis perspiciatis nam eos sit sequi dicta, reiciendis inventore voluptates nisi magni expedita veritatis laudantium est officiis autem quis cum odit amet distinctio! Repellendus voluptatum aperiam eius provident quod, inventore esse ea minus. Illo repellendus sunt aliquam consectetur, odio necessitatibus minus quasi iusto labore, rerum nesciunt soluta.</p>
+</body>
+</html>
