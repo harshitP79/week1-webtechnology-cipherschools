@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>class 18</title>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur <b>adipisicing</b> elit. Saepe,<strong>maxime, fugiat sit illum</strong>  nostrum, facere explicabo hic deleniti asperiores reprehenderit suscipit consectetur velit molestias voluptas numquam dignissimos. Provident ea exercitationem, eius voluptatum quibusdam nesciunt sit debitis, inventore aspernatur tenetur non facere libero reprehenderit <em>fugit officiis</em>. Autem vel aliquam sit illo excepturi <i>distinctio nesciunt voluptatum obcaecati</i> repudiandae veniam, tempore iure laboriosam perspiciatis esse inventore reiciendis tenetur. Nobis debitis officia excepturi iure non veritatis ducimus vitae culpa ea, nostrum error sapiente consectetur? Sit error, culpa <mark>labore</mark> dolore impeditlabore dolore impedit.
+</p>
+<p>H<sub>2</sub>O</p>
+<p>2<sup>4</sup></p>
+</body>
